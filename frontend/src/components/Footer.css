@@ -1,0 +1,13 @@
+.footer a:hover {
+    color: #fff !important;
+    text-decoration: underline;
+}
+
+.footer h5,
+.footer h6 {
+    color: #fff;
+}
+
+p {
+    color: #fff;
+}
